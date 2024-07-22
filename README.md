@@ -21,7 +21,7 @@
 
 - Developed a fully functional e-commerce platform from scratch.
 - Successfully completed numerous projects.
-- An ongoing group research project related smart waste management system.
+- An ongoing group research project related to smart waste management system.
 - Multiple projects as a freelancer.
 
 <h3 align="left">Connect with me:</h3>
