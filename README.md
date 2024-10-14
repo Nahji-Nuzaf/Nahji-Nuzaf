@@ -5,7 +5,7 @@
 🧑‍💻 Hello there! I am a dedicated Software Engineer and undergraduate student at Java Institute, Sri Lanka. majoring on web development and software application development. With a talent for creating engaging and user-friendly UI/UX designs, I enjoy developing seamless digital experiences.
 
 <div> <a href="https://www.linkedin.com/in/nahji-nuzaf-own" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Nahji-Nuzaf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<!-- <a href="https://github.com/Nahji-Nuzaf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
 <a href = "mailto:nahji1101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
