@@ -7,18 +7,19 @@ I'm passionate about creating scalable, secure, and interactive web applications
 <div> <!-- <a href="https://www.linkedin.com/in/nahji-nuzaf-own" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!-- <a href="https://github.com/Nahji-Nuzaf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
 
-## ♟️ Skills and Expertise:
+<!--## ♟️ Skills and Expertise:
 
 - Web Development: Proficient in HTML, CSS, JavaScript, and popular frameworks like Bootstrap and Tailwind.
 - Software Development
 - UI/UX Design: Creating simple and interactive user interfaces.
-- E-commerce Solutions: Successfully built a Multiple E-commerce applications. (Checkout Shopply & BSC)
+- E-commerce Solutions: Successfully built a Multiple E-commerce applications. (Checkout Shopply & BSC) -->
 
 ## 💻 Projects:
 
-- Developed multi seller and single seller, fully functional e-commerce platform from scratch.
-- Successfully completed numerous projects in software application development.
-- An ongoing group research project related to smart waste management system.
+- E-Commerce Web Apps - Shopply, Bombay Sweet Choice
+- Inventory Management & POS Software - CherryCone
+- ERP Systems - SuperERP
+- Research - Smart Waste Management System.
 - Multiple projects as a freelancer.
 
 ## 🌐 Socials:
