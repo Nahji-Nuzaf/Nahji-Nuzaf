@@ -18,6 +18,7 @@ I'm passionate about creating scalable, secure, and interactive web applications
 
 - E-Commerce Web Apps - Shopply, Bombay Sweet Choice
 - Inventory Management & POS Software - CherryCone
+- Institute Management System - Adyapana
 - ERP Systems - SuperERP
 - Research - Smart Waste Management System.
 - Multiple projects as a freelancer.
