@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Nahji Nuzaf 
 
-# 🎯 Full Stack Developer | 🚀 Web Innovator | 🎨 UI/UX Enthusiast !!
+# 🎯 Full Stack Developer | 🚀 Web Innovator | 🎨 UI/UX Enthusiast
 
 I'm passionate about creating scalable, secure, and interactive web applications and software applications that deliver exceptional user experiences. With expertise in HTML, CSS, JavaScript, Java and more, I specialize in building robust solutions for businesses and enterprises.
 
